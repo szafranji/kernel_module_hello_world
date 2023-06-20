@@ -1,0 +1,7 @@
+my first simple kernel module
+
+make to create module
+make install_module will install module to a kernel
+make remove_module obvious
+
+use sudo dmesg to see more
